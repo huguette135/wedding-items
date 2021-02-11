@@ -109,9 +109,9 @@ WSGI_APPLICATION = 'mygalla.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'mygallery',
-        'USER': 'msyoki',
-    'PASSWORD':'psql20*',
+        'NAME': 'wedding',
+        'USER': 'huguette',
+    'PASSWORD':'135',
     }
 }
 
